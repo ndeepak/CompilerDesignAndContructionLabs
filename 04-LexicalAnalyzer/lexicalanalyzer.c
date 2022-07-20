@@ -24,7 +24,7 @@ int isKeyword(char buffer[])
 }
 
 int main(){
-    char ch, buffer[15], operators[] = "+-*/%-=";
+    char ch, buffer[15], operators[] = "+-*/%=";
     FILE *fp;
     int i, j =0;
     fp = fopen("file.txt", "r");
