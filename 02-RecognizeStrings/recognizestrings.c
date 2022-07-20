@@ -1,3 +1,4 @@
+// Write a C program to recognize strings under "a*", a*b+, abb
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>

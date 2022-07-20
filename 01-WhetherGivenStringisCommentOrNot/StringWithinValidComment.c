@@ -1,3 +1,4 @@
+// Write a program to test whether given entered string within valid comment section or not.
 #include <stdio.h>
 #include <conio.h>
 int main()
